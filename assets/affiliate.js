@@ -1,5 +1,5 @@
 const AFFILIATE_TAGS = {
-  ja: 'YOUR-JP-TAG-20',
+  ja: 'gadgetnavi202-22',
   en: 'YOUR-US-TAG-20'
 };
 
