@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://soumaru0331.github.io/afi-site/sitemap.xml
