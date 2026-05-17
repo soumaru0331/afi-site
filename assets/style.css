@@ -262,6 +262,7 @@ header nav a:hover { color: #fff; background: rgba(255,255,255,0.12); }
   display: flex; align-items: center; justify-content: center;
   font-size: 2.5rem;
   flex-shrink: 0;
+  overflow: hidden; min-width: 88px;
   background: linear-gradient(135deg, #e8f4fd, #c5dff5);
 }
 .product-card[data-rank="1"] .product-img { background: linear-gradient(135deg, #fff8e1, #ffe580); }
@@ -269,7 +270,7 @@ header nav a:hover { color: #fff; background: rgba(255,255,255,0.12); }
 .product-card[data-rank="3"] .product-img { background: linear-gradient(135deg, #e8eaf6, #c5cae9); }
 .product-card[data-rank="4"] .product-img { background: linear-gradient(135deg, #fce4ec, #f8bbd0); }
 .product-card[data-rank="5"] .product-img { background: linear-gradient(135deg, #f3e5f5, #e1bee7); }
-.product-img img { width: 88px; height: 88px; object-fit: contain; border-radius: 8px; }
+.product-img img { width: 88px; height: 88px; object-fit: contain; display: block; }
 
 /* ── Badge ── */
 .badge {
