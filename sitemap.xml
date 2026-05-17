@@ -83,4 +83,16 @@
     <loc>https://soumaru0331.github.io/afi-site/en/review/tablets-2026.html</loc>
     <changefreq>monthly</changefreq><priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://soumaru0331.github.io/afi-site/ja/review/ipad-air-m2-vs-ipad-pro-m4.html</loc>
+    <changefreq>monthly</changefreq><priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumaru0331.github.io/afi-site/ja/review/sony-wf1000xm5-review.html</loc>
+    <changefreq>monthly</changefreq><priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://soumaru0331.github.io/afi-site/ja/review/telework-laptop-2026.html</loc>
+    <changefreq>monthly</changefreq><priority>0.7</priority>
+  </url>
 </urlset>
